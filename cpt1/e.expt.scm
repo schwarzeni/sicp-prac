@@ -29,3 +29,4 @@
 (expt-iter 2 10)
 (expt-fast 2 10)
 (expt-fast 2 11)
+(expt-fast 889858667 9999999997)
